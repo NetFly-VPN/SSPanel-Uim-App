@@ -1,7 +1,7 @@
 # SSPanel-Uim-App  全平台客户端定制计划
 
 1. 体验账户
-  账户:test2@gmail.com
+  账户:test2@gmail.com 
   密码: 12345678
 2. iOS 体验地址:[下载](https://testflight.apple.com/join/q1ByZIUZ)
 3. Android客户端: [下载](https://github.com/NetFly-VPN/SSPanel-Uim-App/releases/download/1.0.1/app-universal-release.apk)
